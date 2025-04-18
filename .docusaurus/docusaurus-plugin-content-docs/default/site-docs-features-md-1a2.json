@@ -1,0 +1,20 @@
+{
+  "id": "features",
+  "title": "features",
+  "description": "I built this site as an alternative host for my portfolio items and to get experience with:",
+  "source": "@site/docs/features.md",
+  "sourceDirName": ".",
+  "slug": "/features",
+  "permalink": "/docusaurus-portfolio/docs/features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/features.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome to My First documentation site!",
+    "permalink": "/docusaurus-portfolio/docs/intro"
+  }
+}
