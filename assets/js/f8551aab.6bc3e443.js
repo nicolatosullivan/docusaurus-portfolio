@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2224],{4575:(s,e,i)=>{i.r(e),i.d(e,{default:()=>l});i(6540);var c=i(1410),n=i(4848);function l(){return(0,n.jsxs)(c.A,{children:[(0,n.jsx)("h1",{children:"My Doc Portfolio"}),(0,n.jsx)("p",{children:"This site contains a collection of samples showcasing various technical writing skills."})]})}}}]);
